@@ -1,0 +1,10 @@
+The [NOUN](s) (e.g. The Pixies, The Blow)
+The [ADJ] [NOUN](s) (e.g. The White Stripes)
+The [VERB]ing [NOUN](s) (e.g. The Flaming Lips)
+[NOUN] [NOUN]s
+[NOUN][VERB]er (e.g. Squarepusher)
+[NOUN][VERB]er -vowels +ALLCAPS (e.g. STRFKR)
+[NOUN] [NOUN] (e.g. Purity Ring)
+[PROPER NOUN] and The [NOUN]s
+[PROPER NOUN] and The [ADJ] [NOUN]s
+[NOUN]
